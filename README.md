@@ -4,7 +4,7 @@
 
 I build Android apps in **Kotlin** and **Jetpack Compose**, from requirement analysis and architecture through Play Store release. My focus is clean, scalable architecture (MVVM, MVI, Clean Architecture), secure apps, and growing strong engineering teams.
 
-📄 **[View my resume](https://YOUR-USERNAME.github.io/resume/)** · **[Download PDF](https://YOUR-USERNAME.github.io/resume/resume.pdf)**
+📄 **[View my resume](https://oamprakash.github.io/resume/)** · **[Download PDF](https://oamprakash.github.io/resume/resume.pdf)**
 
 ### 🛠 Tech I work with
 
@@ -23,4 +23,4 @@ I build Android apps in **Kotlin** and **Jetpack Compose**, from requirement ana
 ### 📫 Reach me
 
 - Email: oamprakash85@gmail.com
-- LinkedIn: [YOUR-LINKEDIN](https://www.linkedin.com/in/YOUR-LINKEDIN)
+- LinkedIn: [oamprakash](https://www.linkedin.com/in/oamprakash)
